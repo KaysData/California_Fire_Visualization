@@ -7,9 +7,12 @@ VHP.G04.C07.npp.P2019043.VH.nc
 topo\ or\ perimeter\ data\ idunno\ Data/elsl48i0100a.tif
 
 
-To be stored at _______. 
+To be stored at https://drive.google.com/drive/folders/1n5rmoRMoYYaMU8dPRHW-SB9KnP-4-q-8?usp=sharing.
 
-Data Source: https://map.dfg.ca.gov/metadata/ds0397.html
+Data Source: 
+Fire Perimeters: https://map.dfg.ca.gov/metadata/ds0397.html
+Vegitation Health Index: https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/vh_browseByCountry.php
+Vegitation Health Index Documentation: https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH_doc/VHP_uguide_v2.0_2018_0727.pdf
 
 
 Due to large file size being a paid feature for github. 
